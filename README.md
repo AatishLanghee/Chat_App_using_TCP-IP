@@ -12,4 +12,4 @@
      
 ## Ouptut
 
- [output.png](Screenshot%20from%202020-06-14%2013-02-25.png)
+![alt text](Screenshot from 2020-06-14 13-02-25.png)
