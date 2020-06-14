@@ -12,4 +12,4 @@
      
 ## Ouptut
 
-![alt text](Screenshot from 2020-06-14 13-02-25.png)
+![alt text](https://github.com/AatishLanghee/Chat_App_using_TCP-IP/blob/master/Screenshot%20from%202020-06-14%2013-02-25.png)
